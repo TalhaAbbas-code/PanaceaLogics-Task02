@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Zendesk Clone
+As a React.js intern at Panacealogics, I successfully developed a fully responsive clone of a website using React.js and Tailwind CSS. The project focused on replicating the original design while ensuring seamless responsiveness across all devices, showcasing my proficiency in modern front-end development and component-based architecture.
+
+<img src="https://github.com/TalhaAbbas-code/PanaceaLogics-Task02/blob/main/Screenshot%20(50).png" alt="Project Screenshot" >
+<img src="https://github.com/TalhaAbbas-code/PanaceaLogics-Task02/blob/main/Screenshot%20(51).png" alt="Project Screenshot" >
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
